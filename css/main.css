@@ -6,3 +6,39 @@ body {
     background: #f5f7f9;
     color: #181a26;
 }
+
+.nav-link {
+    color: #181a26;
+}
+
+.nav-link:hover {
+    color: #BFA8B9;
+}
+
+h1 {
+    letter-spacing: 0.1em;
+    line-height: 1.5em;
+    font-size: 2.5em;
+}
+
+h2 {
+    letter-spacing: 0.1em;
+    line-height: 1.5em;
+    font-size: 2em;
+}
+
+h3 {
+    letter-spacing: 0.1em;
+    line-height: 1em;
+    font-size: 1.8em;
+}
+
+h4 {
+    font-size: 1.2em;
+    letter-spacing: 0.05em;
+    color: #BFA8B9;
+}
+
+mark {
+    background-color: #E4DEE5;
+}
